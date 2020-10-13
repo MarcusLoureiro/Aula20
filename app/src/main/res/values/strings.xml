@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula20</string>
+    <string name="text">Olá mundo cruel</string>
+    <string name="toolTitle">Material Design</string>
+    <string name="subTitle">Home</string>
+    <string name="add">Adicionar Item</string>
+    <string name="notification">Notificações</string>
+</resources>
